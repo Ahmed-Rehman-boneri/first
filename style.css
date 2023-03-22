@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    margin: 0%;
+    padding: 0%;
+}
+
+#heading{
+   margin-left: 46%;
+   color: rebeccapurple;
+}
+
+#ahmed{
+
+    background-color:blue;
+    border: 1px solid black;
+}
+
+#nav{
+    border: 2px solid orange;
+}
+
+
+ul ,ol{
+    background-color: aqua;
+
+}
+li{
+    background-color: blue;
+}
